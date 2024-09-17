@@ -57,7 +57,3 @@ finally:
     # Close the sockets
     udp_sock.close()
     tcp_sock.close()
-finally:
-    # Close the sockets
-    udp_sock.close()
-    tcp_sock.close()
